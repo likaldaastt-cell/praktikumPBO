@@ -14,4 +14,3 @@ $kotak->lebar = 5;
 
 echo $kotak->luas();
 ?>
-    

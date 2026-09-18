@@ -71,8 +71,8 @@ class Mobil {
 }  
 
 
-$Mobil1 = new Mobil("Hyundai", "Hitam", 120);
-$Mobil2 = new Mobil("Honda", "Merah", 140);
+$Mobil1 = new Mobil("Hyundai", "Hitam", 200);
+$Mobil2 = new Mobil("Honda", "Me", 140);
 $Mobil3 = new Mobil("BMW", "Hitam", 100);
 
 echo "<h3>Mobil 1</h3>";

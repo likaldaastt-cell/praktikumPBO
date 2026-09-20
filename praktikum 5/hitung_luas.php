@@ -34,7 +34,7 @@ class Lingkaran implements Bentuk
         $this->radius = $radius;
     }
 
-    public function hitungLuas()
+   public function hitungLuas()
     {
         return 3.14 * $this->radius * $this->radius;
     }
